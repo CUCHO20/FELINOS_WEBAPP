@@ -31,6 +31,16 @@ export default function Footer() {
                 </a>
               </li>
               <li>
+                <a
+                  href="https://cataas.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-primary transition-colors duration-300"
+                >
+                  The Cataas API
+                </a>
+              </li>
+              <li>
                 <a href="#about" className="hover:text-primary transition-colors duration-300">
                   Sobre nosotros
                 </a>
@@ -98,6 +108,13 @@ export default function Footer() {
                 className="text-primary hover:text-accent transition-colors duration-300 font-semibold"
               >
                 The Cat API
+              </a> and <a
+                href="https://cataas.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-primary hover:text-accent transition-colors duration-300 font-semibold"
+              >
+                The Cataas API
               </a>
             </p>
           </div>
