@@ -70,7 +70,7 @@ export default function Footer() {
 
             <div className="flex gap-4">
               <a
-                href="https://github.com"
+                href="https://github.com/CUCHO20"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary transition-colors duration-300"
@@ -79,7 +79,7 @@ export default function Footer() {
                 <Github className="w-5 h-5" />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/jesus-hector-vela/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary transition-colors duration-300"
